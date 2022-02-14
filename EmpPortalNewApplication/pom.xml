@@ -14,7 +14,7 @@
 	<name>EmpPortalNewApplication</name>
 	<description>Course API with data for Spring Boot QuickStart Java Brain course</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.7</java.version>
 	</properties>
 		<dependencies>
 		<dependency>
